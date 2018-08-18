@@ -4,7 +4,7 @@
   "author": "Thai Pangsakulyanont @dtinth",
   "license": "BSD-3-Clause",
   "description": "A babel plugin that adds istanbul instrumentation to ES6 code",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "files": [
     "lib"
   ],
